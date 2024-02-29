@@ -1,0 +1,4 @@
+Bundle-Name: client-card-rest-service
+Bundle-SymbolicName: pe.inteligo.client.card.rest
+Bundle-Version: 1.0.0
+Liferay-Configuration-Path: /configuration
