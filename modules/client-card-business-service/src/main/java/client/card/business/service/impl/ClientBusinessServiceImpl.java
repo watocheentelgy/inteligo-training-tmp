@@ -88,4 +88,12 @@ public class ClientBusinessServiceImpl implements ClientBusinessService{
         
         LOG.info("ObjectEntryId: " + objectEntry.getObjectEntryId());
 	}
+
+
+	@Override
+	public void extensions(String[] supportedMimeTypes) {
+		for (String item : supportedMimeTypes) {
+			LOG.info("item: " + item);
+		}
+	}
 }

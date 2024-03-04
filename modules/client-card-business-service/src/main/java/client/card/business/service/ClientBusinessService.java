@@ -18,4 +18,6 @@ public interface ClientBusinessService {
 	
 	public void addClient(ServiceContext serviceContext, ClientDto clientDto) 
 			throws PortalException;
+	
+	public void extensions(String []supportedMimeTypes);
 }
