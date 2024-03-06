@@ -1,0 +1,4 @@
+Bundle-Name: inteligo-clayui-training
+Bundle-SymbolicName: inteligo.clayui.training.portlet
+Bundle-Version: 1.0.0
+Export-Package: inteligo.clayui.training.portlet.constants
