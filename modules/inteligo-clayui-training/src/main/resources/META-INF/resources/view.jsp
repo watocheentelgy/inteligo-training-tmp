@@ -47,5 +47,7 @@
 	<hr>
 	<br>
 	<clay:icon symbol="folder" />
-
+ 	<br>
+ 	<br>
+ 	<clay:sticker displayType="light" icon="github" size="xl" />
 </div>
