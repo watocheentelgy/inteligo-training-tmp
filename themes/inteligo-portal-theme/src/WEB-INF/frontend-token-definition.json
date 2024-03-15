@@ -1,0 +1,107 @@
+{
+    "frontendTokenCategories": [
+     {
+      "frontendTokenSets": [
+       {
+        "frontendTokens": [
+            {
+                "defaultValue": "#517c13",
+                "editorType": "ColorPicker",
+                "label": "Color por defecto",
+                "mappings": [
+                    {
+                        "type": "cssVariable",
+                        "value": "color-green-400"
+                    }
+                ],
+                "name": "color-green-400",
+                "type": "String"
+            },
+            {
+                "defaultValue": "#8baf43",
+                "editorType": "ColorPicker",
+                "label": "Color por defecto",
+                "mappings": [
+                    {
+                        "type": "cssVariable",
+                        "value": "color-green-300"
+                    }
+                ],
+                "name": "color-green-300",
+                "type": "String"
+            },
+            {
+                "defaultValue": "#ffffff",
+                "editorType": "ColorPicker",
+                "label": "Color por defecto",
+                "mappings": [
+                    {
+                        "type": "cssVariable",
+                        "value": "color-white"
+                    }
+                ],
+                "name": "color-white",
+                "type": "String"
+            },
+            {
+                "defaultValue": "#3e6a27",
+                "editorType": "ColorPicker",
+                "label": "Color por defecto",
+                "mappings": [
+                    {
+                        "type": "cssVariable",
+                        "value": "color-green-700"
+                    }
+                ],
+                "name": "color-green-700",
+                "type": "String"
+            },
+            {
+                "defaultValue": "#86b7fe",
+                "editorType": "ColorPicker",
+                "label": "Color por defecto",
+                "mappings": [
+                    {
+                        "type": "cssVariable",
+                        "value": "color-blue-10"
+                    }
+                ],
+                "name": "color-blue-10",
+                "type": "String"
+            },
+            {
+                "defaultValue": "#dfecff",
+                "editorType": "ColorPicker",
+                "label": "Color por defecto",
+                "mappings": [
+                    {
+                        "type": "cssVariable",
+                        "value": "color-blue-5"
+                    }
+                ],
+                "name": "color-blue-5",
+                "type": "String"
+            },
+            {
+                "defaultValue": "#565656",
+                "editorType": "ColorPicker",
+                "label": "Color por defecto",
+                "mappings": [
+                    {
+                        "type": "cssVariable",
+                        "value": "color-gray-500"
+                    }
+                ],
+                "name": "color-gray-500",
+                "type": "String"
+            }
+        ],
+        "label": "Colores",
+        "name": "colors"
+       }
+      ],
+      "label": "Sistema",
+      "name": "sistem"
+     }
+    ]
+   }
